@@ -104,7 +104,7 @@
 ### 建立教授信息列表 ###
 是需要想好自己感兴趣的方向是什么，然后再去这个领域找lab。自己的研究兴趣和lab的研究主题的匹配是非常关键的，这也会对之后的申请有所帮助。
 
-**工具：** 海投邮件的数据库管理系统。
+**工具：** 海投邮件的数据库管理工具。
 
 可以使用 MySQL 等数据库构建教授信息表，使用 Python 定时**分批、分内容、分抬头、分关键词、分学校**自动发送邮件，对收到的邮件进行标记，管理数千封海投邮件非常方便。由于此工具太过变态就不开源给大家了，仅在此提供思路，用大家自行开发。
 
@@ -112,14 +112,34 @@
 
 ### 套磁信 ###
 套磁信是否使用模板无伤大雅，最重要的的：让读者最短的时间内知晓你的来意和学术水平。
-1. 使用图片
-2. 使用个人网站
+
+1. **使用图片**：图片是快速传达信息的最好方式，教授往往点开邮件 2s 内就会决定是否看下去，图片是吸引教授注意的最佳方式。
+2. **使用个人网站**：个人网站是介绍申请者学术经历的最好方式，图文并茂比 CV 更快的传达重点。
+
+**Sample：**
+
+Dear Prof X，
+
+I am a junior from X University with solid background in X. I am passionate about a career in research on X after my undergrad.
+
+Since you are a very expert in this field, I would like to ask if you have any summer research assistant opening in your group. I am in particular interested in your works on X I have conducted research related to X before, such as X, X, X. You can know more on my personal WEBSITE. 
+
+PICTURE
+
+Leveraging my solid course background and a well train in research in Xe field and get good grades in X, X, X etc. Besides, I also have an experience in X as a Intern and X. I am highly confident I can make a productive addition to your group within the coming summer. Besides, I will be self-funded and try to solve Visa issues myself. Attached please find my resume. I am thrilled about any possibilities working in your group this coming summer.
+
+Looking forward to your reply!
+
+Best Regards,
+
+X
+
 
 ### 个人网站 ###
-最好的模板是你申请教授的模板。
+在 [Display-yourself](https://github.com/ApplyTutorial/Display-yourself) 详细阐述
 
 ### CV ###
-
+在 [Display-yourself](https://github.com/ApplyTutorial/Display-yourself) 详细阐述
 
 **Tips**
 
